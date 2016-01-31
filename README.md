@@ -1,0 +1,2 @@
+# myMiniInstall
+Instalación de myMini
